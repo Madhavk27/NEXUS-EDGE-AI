@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+models/*.onnx
+models/*.bin
+models/*.safetensors
+models/*.gguf
+models/cache/
+*.log
+.DS_Store
